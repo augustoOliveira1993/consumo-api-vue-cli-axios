@@ -2,7 +2,7 @@
   <div id="app">
     <h1>Preços do Bitcoin</h1>
     <div v-for="currency in info"
-      class="currency" :key="currency">
+      class="currency" :key="currency.symbol">
       {{ currency.description }}:
       <span class="lighten">
         <span v-html="currency.symbol"></span>{{ currency.rate_float | currencydecimal }}

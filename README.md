@@ -24,3 +24,7 @@ yarn lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 # consumo-api-vue-cli-axios
 # consumo-api-vue-cli-axios
+
+Imagens da API
+
+![img](src\assets\api-coin-desk.png)
