@@ -25,5 +25,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 Imagens da API
 
-![img](src\assets\api-coin-desk.png)
+![img](https://github.com/augustoOliveira1993/consumo-api-vue-cli-axios/blob/main/src/assets/api-coin-desk.png)
 
